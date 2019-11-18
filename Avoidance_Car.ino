@@ -2,6 +2,7 @@
  * Date: 11/11/2019
  * Purpose: Create an obstacle avoiding robot. 
  *  Car moves due to two gearmotors attached to two wheels. An ultrasonic sensor is used to detect if there is an object in front of the robot. The ultrasonic sensor is moved by a servo motor to gain more information about surrounding environment.
+ *  To view the robot in action, watch here: https://youtu.be/UX64fmhKRaA
  */
 
 
