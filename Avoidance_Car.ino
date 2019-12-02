@@ -34,7 +34,7 @@ const int lmsc = 6;
 
 //This variable is used to store information about how far an object is from the robot
 float distanceFromObject = 0;
-//This variable is used 
+//This variable is used to determine the angle the servo should be set to.
 int servoAngle = 0;
 const int numAnglesToCheck = 4;
 int angles_to_check[numAnglesToCheck] = {60, 90, 120, 90};
