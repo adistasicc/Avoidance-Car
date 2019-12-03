@@ -79,7 +79,7 @@ void moveforward()
   //set pin 1 of left and right motors to high
   digitalWrite(rmcp1, HIGH);
   digitalWrite(lmcp1, HIGH);
-  //set pin 1 of left and right motors to low
+  //set pin 2 of left and right motors to low
   digitalWrite(rmcp2, LOW);      
   digitalWrite(lmcp2, LOW);                   
 
